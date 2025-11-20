@@ -3,7 +3,7 @@ package Mipresentacion;
 public class Mipresentacion {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+	System.out.println("Mi nombre es Jimmy Garcia y tengo 27 años");
 
 	}
 
