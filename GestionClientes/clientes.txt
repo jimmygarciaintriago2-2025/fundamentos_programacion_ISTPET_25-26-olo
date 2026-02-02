@@ -1,0 +1,10 @@
+nombre,cedula,email
+jimmy,2250284722,jimmygarcia@gmail.com
+Darwin,2255667744,darwinF@gmail.com
+Shirley,1674823904,Shirley@gmail.com
+Dennis,3452617243,dennis@gmail.com
+Oscar,3425161623,oscar@gmail.com
+Dario,1234523143,dario@gmail.com
+Ismael,9867453423,isma@gmail.com
+Sahid,1345627143,Sahid@gmail.com
+Adrian,8675860345,adri@gmail.com
